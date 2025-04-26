@@ -1,11 +1,11 @@
-# 📁 Adeel's Portfolio
+# 📁 Muhammad Adeel's Portfolio
 
 Welcome to my portfolio repository!  
 I'm **Muhammad Adeel** 👋, an Electrical Engineering Technician 🔌 passionate about building real-world solutions using **electronics** ⚡, **microcontrollers** , and **programming** 💻. This portfolio showcases my **personal** and **academic** projects, skills, and interests.
 
 ---
 
-## 🔗 Live Website  
+## 🔗 Portfolio Website  
 🌐 [Visit My Portfolio](https://kademuha.github.io/Portfolio/)
 
 > *(Replace the URL with your actual GitHub Pages link once published)*
