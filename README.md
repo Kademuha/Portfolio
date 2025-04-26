@@ -43,7 +43,7 @@ Analysis and simulation of **RC/LC oscillators** using **Multisim** and practica
 ---
 
 ## 📫 Contact Me  
-- **Email**: your.email@example.com 📧  
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/MuhammadAdeel) 🌐  
-- **GitHub**: [github.com/your-username](https://github.com/kademuha) 🔗
+- **Email**: adeelmughal63888@gmail.com 📧  
+- **LinkedIn**: [linkedin.com/in/MuhammadAdeel](https://linkedin.com/in/MuhammadAdeel) 🌐  
+- **GitHub**: [github.com/kademuha](https://github.com/kademuha) 🔗
 
