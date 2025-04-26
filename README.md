@@ -1,57 +1,49 @@
-<header>
+# 📁 Adeel's Portfolio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## Finish
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Welcome to my portfolio repository!  
+I'm **Muhammad Adeel** 👋, an Electrical Engineering Technician 🔌 passionate about building real-world solutions using **electronics** ⚡, **microcontrollers** , and **programming** 💻. This portfolio showcases my **personal** and **academic** projects, skills, and interests.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🔗 Live Website  
+🌐 [Visit My Portfolio](https://kademuha.github.io/Portfolio/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+> *(Replace the URL with your actual GitHub Pages link once published)*
 
-</footer>
+---
+
+## 🛠️ Skills  
+- **Hardware**: Arduino, ESP32, sensors, relays,   
+- **Software**: Python 🐍, Flet, HTML/CSS 🌐, Git,  
+- **Tools**: VS Code, Multisim, GitHub, AutoCAD
+
+---
+
+## 📌 Featured Projects
+
+#### 🔌 **Smart Home Automation**  
+Control lights and fans over Wi-Fi using **ESP32** and a web app 💡.
+
+#### 🌡️ **Real-Time Weather Station**  
+**ESP32** + sensors that log temperature 🌡️ & humidity 🌬️ data to a live dashboard 📊.
+
+#### 💻 **Personal Portfolio Website**  
+This very site! Built to share my projects and skills 🎨.
+
+---
+
+## 📚 Academic Projects
+
+#### 🧪 **Final Year Project – IoT Energy Monitor**  
+A system to track voltage, current, and power in real-time ⚡🔋 with alerts 🚨.
+
+#### 🔧 **Oscillator Circuit Design**  
+Analysis and simulation of **RC/LC oscillators** using **Multisim** and practical testing 🛠️.
+
+---
+
+## 📫 Contact Me  
+- **Email**: your.email@example.com 📧  
+- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/MuhammadAdeel) 🌐  
+- **GitHub**: [github.com/your-username](https://github.com/kademuha) 🔗
+
