@@ -44,6 +44,6 @@ Analysis and simulation of **RC/LC oscillators** using **Multisim** and practica
 
 ## 📫 Contact Me  
 - **Email**: adeelmughal63888@gmail.com 📧  
-- **LinkedIn**: [linkedin.com/in/MuhammadAdeel](linkedin.com/in/muhammad-adeel-94a198278) 🌐  
+- **LinkedIn**: [linkedin.com/in/MuhammadAdeel](linkedin.com/in/muhammadadeel) 🌐  
 - **GitHub**: [github.com/kademuha](https://github.com/kademuha) 🔗
 
