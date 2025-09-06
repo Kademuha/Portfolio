@@ -13,34 +13,13 @@ I'm **Muhammad Adeel** 👋, an Electrical Engineering Technician 🔌 passionat
 ---
 
 ## 🛠️ Skills  
-- **Hardware**: Arduino, ESP32, sensors, relays,   
-- **Software**: Python 🐍, Flet, HTML/CSS 🌐, Git,  
+- **Hardware**: Arduino, relays,   
+- **Software**: Python 🐍, Flet, HTML/CSS 🌐, C++, C  
 - **Tools**: VS Code, Multisim, GitHub, AutoCAD
 
 ---
 
-## 📌 Featured Projects
 
-#### 🔌 **Smart Home Automation**  
-Control lights and fans over Wi-Fi using **ESP32** and a web app 💡.
-
-#### 🌡️ **Real-Time Weather Station**  
-**ESP32** + sensors that log temperature 🌡️ & humidity 🌬️ data to a live dashboard 📊.
-
-#### 💻 **Personal Portfolio Website**  
-This very site! Built to share my projects and skills 🎨.
-
----
-
-## 📚 Academic Projects
-
-#### 🧪 **Final Year Project – IoT Energy Monitor**  
-A system to track voltage, current, and power in real-time ⚡🔋 with alerts 🚨.
-
-#### 🔧 **Oscillator Circuit Design**  
-Analysis and simulation of **RC/LC oscillators** using **Multisim** and practical testing 🛠️.
-
----
 
 ## 📫 Contact Me  
 - **Email**: adeelmughal63888@gmail.com 📧  
